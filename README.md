@@ -1,8 +1,8 @@
 # 一个移动端音乐app（慕课网  vue2.0 移动端音乐APP教程）
 
 ## 前言
-原教程是vue2.0，且api已被跟换，
-所以多数功能实现方式与原教程右差别。
+原教程是vue2.0，且api已被更换，
+我写的时候vue已经3.0了，所以多数功能实现方式与原教程右差别。
 
 由于是第一次写项目，
 代码可能会有点臃肿，
@@ -67,6 +67,7 @@ node app.js
 
 <img src="https://github.com/2064919801/img/blob/4dc94af2f1bd1135dd0292fed90a2c7239b3e08b/%E6%B7%BB%E5%8A%A0%E6%AD%8C%E6%9B%B2-%E6%9C%80%E8%BF%91.png" alt="" width="200px"> <img src="https://github.com/2064919801/img/blob/4dc94af2f1bd1135dd0292fed90a2c7239b3e08b/%E6%B7%BB%E5%8A%A0%E6%AD%8C%E6%9B%B2-%E5%8E%86%E5%8F%B2.png" alt="" width="200px">
 
+都看到这里了，麻烦给个赞👍呗 b(￣▽￣)d 
 
 
 
