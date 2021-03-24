@@ -48,7 +48,7 @@ node app.js
 
 ### 搜索
 
-<img src="https://github.com/2064919801/img/blob/4dc94af2f1bd1135dd0292fed90a2c7239b3e08b/%E6%90%9C%E7%B4%A22.png" alt="" width="200px"> <img src="https://github.com/2064919801/img/blob/097c31462367f83e0ecde29f0b2d1419b92d16c3/%E6%90%9C%E7%B4%A2.png" alt="" width="200px">
+<img src="https://github.com/2064919801/img/blob/4dc94af2f1bd1135dd0292fed90a2c7239b3e08b/%E6%90%9C%E7%B4%A22.png" alt="" width="200px"> <img src="https://github.com/2064919801/img/blob/097c31462367f83e0ecde29f0b2d1419b92d16c3/%E6%90%9C%E7%B4%A2.png" alt="" width="200px"> <img src="https://github.com/2064919801/img/blob/4dc94af2f1bd1135dd0292fed90a2c7239b3e08b/%E6%90%9C%E7%B4%A2%E5%88%97%E8%A1%A8.png" alt="" width="700px">
 
 ### 歌单详情
 
@@ -59,7 +59,15 @@ node app.js
 <img src="https://github.com/2064919801/img/blob/097c31462367f83e0ecde29f0b2d1419b92d16c3/%E6%92%AD%E6%94%BE%E5%99%A8.png" alt=""  width="200px">                              <img src="https://github.com/2064919801/img/blob/097c31462367f83e0ecde29f0b2d1419b92d16c3/%E6%92%AD%E6%94%BE%E5%99%A8%E6%AD%8C%E8%AF%8D.png" alt="" width="200px">
 
 
-### 
+### 播放歌曲列表/关注列表
+
+<img src="" alt="" width="700px">
+<img src="https://github.com/2064919801/img/blob/4dc94af2f1bd1135dd0292fed90a2c7239b3e08b/%E6%92%AD%E6%94%BE%E6%AD%8C%E6%9B%B2%E5%88%97%E8%A1%A8.png" alt="" width="700px"> <img src="https://github.com/2064919801/img/blob/4dc94af2f1bd1135dd0292fed90a2c7239b3e08b/%E6%88%91%E5%96%9C%E6%AC%A2%E5%88%97%E8%A1%A8.png" alt="" width="700px">
+
+### 播放歌曲列表/关注列表
+
+<img src="https://github.com/2064919801/img/blob/4dc94af2f1bd1135dd0292fed90a2c7239b3e08b/%E6%B7%BB%E5%8A%A0%E6%AD%8C%E6%9B%B2-%E6%9C%80%E8%BF%91.png" alt="" width="700px"> <img src="https://github.com/2064919801/img/blob/4dc94af2f1bd1135dd0292fed90a2c7239b3e08b/%E6%B7%BB%E5%8A%A0%E6%AD%8C%E6%9B%B2-%E5%8E%86%E5%8F%B2.png" alt="" width="700px">
+
 
 
 
