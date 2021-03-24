@@ -15,6 +15,19 @@
 所用技术栈：Vue全家桶+better-scroll+axios。
 
 # 项目准备：
-QQ音乐api
-<a href:"https://jsososo.github.io/QQMusicApi/#/?id=qqmusicapi">后端API接口文档</a>
+QQ音乐api接口地址:https://jsososo.github.io/QQMusicApi/#/?id=qqmusicapi
+
+# API安装步骤：
+
+接口仓库地址：https://github.com/daoshengfu/Vue-NeteaseCloud-WebMusicApp
+
+进入下载好的文件夹
+
+npm install
+
+node app.js
+
+出现：server running @ http://localhost:xxxx 时运行成功
+
+
 
