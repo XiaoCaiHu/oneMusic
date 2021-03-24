@@ -31,7 +31,7 @@ node app.js
 
 # 项目目录介绍
 
-![img](https://github.com/2064919801/img/blob/eec6c607f0c51424456ec72f7ca7b8083c9ce88c/%E9%A1%B9%E7%9B%AE%E4%BB%8B%E7%BB%8D.jpg)
+<img src="https://github.com/2064919801/img/blob/eec6c607f0c51424456ec72f7ca7b8083c9ce88c/%E9%A1%B9%E7%9B%AE%E4%BB%8B%E7%BB%8D.jpg" alt="" width="200px">
 
 # 项目效果图
 主页
