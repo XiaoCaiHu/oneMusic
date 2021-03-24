@@ -33,6 +33,35 @@ node app.js
 
 ![img](https://github.com/2064919801/img/blob/eec6c607f0c51424456ec72f7ca7b8083c9ce88c/%E9%A1%B9%E7%9B%AE%E4%BB%8B%E7%BB%8D.jpg)
 
+# 项目效果图
+主页
+
+![img](https://github.com/2064919801/img/blob/eec6c607f0c51424456ec72f7ca7b8083c9ce88c/%E4%B8%BB%E9%A1%B5.png)
+
+歌手
+
+![img](https://github.com/2064919801/img/blob/097c31462367f83e0ecde29f0b2d1419b92d16c3/%E4%B8%BB%E9%A1%B5w.png)
+
+排行
+
+![img](https://github.com/2064919801/img/blob/097c31462367f83e0ecde29f0b2d1419b92d16c3/%E6%8E%92%E8%A1%8C%E6%A6%9C.png)
+
+搜索
+
+![img](https://github.com/2064919801/img/blob/097c31462367f83e0ecde29f0b2d1419b92d16c3/%E6%90%9C%E7%B4%A2.png)
+
+歌单详情
+
+![img](https://github.com/2064919801/img/blob/097c31462367f83e0ecde29f0b2d1419b92d16c3/%E6%AD%8C%E5%8D%95.png)
+
+播放器
+
+![img](https://github.com/2064919801/img/blob/097c31462367f83e0ecde29f0b2d1419b92d16c3/%E6%92%AD%E6%94%BE%E5%99%A8.png)
+
+歌词显示
+
+![img](https://github.com/2064919801/img/blob/097c31462367f83e0ecde29f0b2d1419b92d16c3/%E6%92%AD%E6%94%BE%E5%99%A8%E6%AD%8C%E8%AF%8D.png)
+
 
 
 
