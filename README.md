@@ -41,7 +41,7 @@ node app.js
 ### 歌手
 
 <img src="" alt="" width="260px">
-<img src="https://github.com/2064919801/img/blob/097c31462367f83e0ecde29f0b2d1419b92d16c3/%E4%B8%BB%E9%A1%B5w.png" alt="" width="260px">
+<img src="https://github.com/2064919801/img/blob/097c31462367f83e0ecde29f0b2d1419b92d16c3/%E6%AD%8C%E6%89%8B.png" alt="" width="260px">
 
 ### 排行
 
