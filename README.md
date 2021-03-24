@@ -36,8 +36,7 @@ node app.js
 ## 项目效果图
 ### 主页
 
-<img src="https://github.com/2064919801/img/blob/4dc94af2f1bd1135dd0292fed90a2c7239b3e08b/%E9%A6%96%E9%A1%B52.png
-" alt="" width="260px"> <img src="https://github.com/2064919801/img/blob/097c31462367f83e0ecde29f0b2d1419b92d16c3/%E4%B8%BB%E9%A1%B5w.png" alt="" width="260px">
+<img src="https://github.com/2064919801/img/blob/4dc94af2f1bd1135dd0292fed90a2c7239b3e08b/%E9%A6%96%E9%A1%B52.png" alt="" width="260px"> <img src="https://github.com/2064919801/img/blob/097c31462367f83e0ecde29f0b2d1419b92d16c3/%E4%B8%BB%E9%A1%B5w.png" alt="" width="260px">
 
 ### 歌手
 
@@ -54,8 +53,7 @@ node app.js
 
 ### 歌单详情
 
-<img src="
-https://github.com/2064919801/img/blob/4dc94af2f1bd1135dd0292fed90a2c7239b3e08b/%E6%AD%8C%E5%8D%952.png" alt="" width="260px"> <img src="https://github.com/2064919801/img/blob/097c31462367f83e0ecde29f0b2d1419b92d16c3/%E6%AD%8C%E5%8D%95.png" alt="" width="260px">
+<img src="https://github.com/2064919801/img/blob/4dc94af2f1bd1135dd0292fed90a2c7239b3e08b/%E6%AD%8C%E5%8D%952.png" alt="" width="260px"> <img src="https://github.com/2064919801/img/blob/097c31462367f83e0ecde29f0b2d1419b92d16c3/%E6%AD%8C%E5%8D%95.png" alt="" width="260px">
 
 ### 播放器 / 歌词显示
 
