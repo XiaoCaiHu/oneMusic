@@ -17,7 +17,7 @@
 ## 项目准备：
 QQ音乐api接口地址:https://jsososo.github.io/QQMusicApi/#/?id=qqmusicapi
 
-## API安装步骤：
+### API安装步骤：
 
 接口仓库地址：https://github.com/daoshengfu/Vue-NeteaseCloud-WebMusicApp
 
