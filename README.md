@@ -31,36 +31,37 @@ node app.js
 
 # 项目目录介绍
 
-<img src="https://github.com/2064919801/img/blob/eec6c607f0c51424456ec72f7ca7b8083c9ce88c/%E9%A1%B9%E7%9B%AE%E4%BB%8B%E7%BB%8D.jpg" alt="" width="200px">
+<img src="https://github.com/2064919801/img/blob/eec6c607f0c51424456ec72f7ca7b8083c9ce88c/%E9%A1%B9%E7%9B%AE%E4%BB%8B%E7%BB%8D.jpg" alt="" width="700px">
 
 # 项目效果图
 主页
 
-![img](https://github.com/2064919801/img/blob/eec6c607f0c51424456ec72f7ca7b8083c9ce88c/%E4%B8%BB%E9%A1%B5.png)
+<img src="https://github.com/2064919801/img/blob/097c31462367f83e0ecde29f0b2d1419b92d16c3/%E4%B8%BB%E9%A1%B5w.png" alt="" width="260px">
 
 歌手
 
-![img](https://github.com/2064919801/img/blob/097c31462367f83e0ecde29f0b2d1419b92d16c3/%E4%B8%BB%E9%A1%B5w.png)
+<img src="" alt="" width="260px">
+<img src="https://github.com/2064919801/img/blob/097c31462367f83e0ecde29f0b2d1419b92d16c3/%E4%B8%BB%E9%A1%B5w.png" alt="" width="260px">
 
 排行
 
-![img](https://github.com/2064919801/img/blob/097c31462367f83e0ecde29f0b2d1419b92d16c3/%E6%8E%92%E8%A1%8C%E6%A6%9C.png)
+<img src="https://github.com/2064919801/img/blob/097c31462367f83e0ecde29f0b2d1419b92d16c3/%E6%8E%92%E8%A1%8C%E6%A6%9C.png" alt="" width="260px">
 
 搜索
 
-![img](https://github.com/2064919801/img/blob/097c31462367f83e0ecde29f0b2d1419b92d16c3/%E6%90%9C%E7%B4%A2.png)
+<img src="https://github.com/2064919801/img/blob/097c31462367f83e0ecde29f0b2d1419b92d16c3/%E6%90%9C%E7%B4%A2.png" alt="" width="260px">
 
 歌单详情
 
-![img](https://github.com/2064919801/img/blob/097c31462367f83e0ecde29f0b2d1419b92d16c3/%E6%AD%8C%E5%8D%95.png)
+<img src="https://github.com/2064919801/img/blob/097c31462367f83e0ecde29f0b2d1419b92d16c3/%E6%AD%8C%E5%8D%95.png" alt="" width="260px">
 
 播放器
 
-![img](https://github.com/2064919801/img/blob/097c31462367f83e0ecde29f0b2d1419b92d16c3/%E6%92%AD%E6%94%BE%E5%99%A8.png)
+<img src="https://github.com/2064919801/img/blob/097c31462367f83e0ecde29f0b2d1419b92d16c3/%E6%92%AD%E6%94%BE%E5%99%A8.png" alt="" width="260px">
 
 歌词显示
 
-![img](https://github.com/2064919801/img/blob/097c31462367f83e0ecde29f0b2d1419b92d16c3/%E6%92%AD%E6%94%BE%E5%99%A8%E6%AD%8C%E8%AF%8D.png)
+<img src="https://github.com/2064919801/img/blob/097c31462367f83e0ecde29f0b2d1419b92d16c3/%E6%92%AD%E6%94%BE%E5%99%A8%E6%AD%8C%E8%AF%8D.png" alt="" width="260px">
 
 
 
