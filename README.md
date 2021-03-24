@@ -57,7 +57,7 @@ node app.js
 
 ### 播放器 / 歌词显示
 
-<img src="https://github.com/2064919801/img/blob/097c31462367f83e0ecde29f0b2d1419b92d16c3/%E6%92%AD%E6%94%BE%E5%99%A8.png" alt=""  margin-right: 50px; width="260px"> <img src="https://github.com/2064919801/img/blob/097c31462367f83e0ecde29f0b2d1419b92d16c3/%E6%92%AD%E6%94%BE%E5%99%A8%E6%AD%8C%E8%AF%8D.png" alt="" width="260px">
+<img src="https://github.com/2064919801/img/blob/097c31462367f83e0ecde29f0b2d1419b92d16c3/%E6%92%AD%E6%94%BE%E5%99%A8.png" alt=""  margin-right="50px" width="260px"> <img src="https://github.com/2064919801/img/blob/097c31462367f83e0ecde29f0b2d1419b92d16c3/%E6%92%AD%E6%94%BE%E5%99%A8%E6%AD%8C%E8%AF%8D.png" alt="" width="260px">
 
 
 ### 
