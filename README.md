@@ -1,14 +1,8 @@
-# 一个移动端音乐app（慕课网  vue2.0 移动端音乐APP）
+# 小熊音乐app
 
 ## 前言
-原教程是vue2.0，且api已被更换，
-我写的时候vue已经3.0了，所以多数功能实现方式与原教程有差别。
-
-由于是第一次写项目，
-代码可能会有点臃肿，
-不过写了很多注释，
-刚刚学完vue但没做过项目，
-还是拿去参考一下还是可以的o(*￣▽￣*)ブ。
+之前看了一些B站用vue制作音乐app的视频，心血来潮也跟着弄了一个。
+第一次写项目很多地方都不完善，权当对刚学完vue的我进行了一次全方位的复习。
 
 （项目在master分支中）
 
@@ -29,43 +23,36 @@ node app.js
 
 出现：server running @ http://localhost:xxxx 时运行成功
 
-## 项目目录介绍
-
-<img src="https://github.com/2064919801/img/blob/eec6c607f0c51424456ec72f7ca7b8083c9ce88c/%E9%A1%B9%E7%9B%AE%E4%BB%8B%E7%BB%8D.jpg" alt="" width="700px">
-
 ## 项目效果图
 ### 主页
 
-<img src="https://github.com/2064919801/img/blob/4dc94af2f1bd1135dd0292fed90a2c7239b3e08b/%E9%A6%96%E9%A1%B52.png" alt="" width="200px"> <img src="https://github.com/2064919801/img/blob/097c31462367f83e0ecde29f0b2d1419b92d16c3/%E4%B8%BB%E9%A1%B5w.png" alt="" width="200px">
+<img src="https://github.com/XiaoCaiHu/img/blob/57071625da8f677623665dcdfe1846753ad1179b/%E6%8E%A8%E8%8D%90%E9%A1%B5.png" alt="" width="200px">
 
 ### 歌手
 
-<img src="https://github.com/2064919801/img/blob/4dc94af2f1bd1135dd0292fed90a2c7239b3e08b/%E6%AD%8C%E6%89%8B2.png" alt="" width="200px">   <img src="https://github.com/2064919801/img/blob/097c31462367f83e0ecde29f0b2d1419b92d16c3/%E6%AD%8C%E6%89%8B.png" alt="" width="200px">
+<img src="https://github.com/XiaoCaiHu/img/blob/57071625da8f677623665dcdfe1846753ad1179b/%E6%AD%8C%E6%89%8B%E9%A1%B5.png" alt="" width="200px">
 
 ### 排行
 
-<img src="https://github.com/2064919801/img/blob/4dc94af2f1bd1135dd0292fed90a2c7239b3e08b/%E6%8E%92%E8%A1%8C2.png" alt="" width="200px"> <img src="https://github.com/2064919801/img/blob/097c31462367f83e0ecde29f0b2d1419b92d16c3/%E6%8E%92%E8%A1%8C%E6%A6%9C.png" alt="" width="200px">
+<img src="https://github.com/XiaoCaiHu/img/blob/57071625da8f677623665dcdfe1846753ad1179b/%E6%8E%92%E8%A1%8C%E9%A1%B5.png" alt="" width="200px">
 
 ### 搜索
 
-<img src="https://github.com/2064919801/img/blob/4dc94af2f1bd1135dd0292fed90a2c7239b3e08b/%E6%90%9C%E7%B4%A22.png" alt="" width="200px"> <img src="https://github.com/2064919801/img/blob/097c31462367f83e0ecde29f0b2d1419b92d16c3/%E6%90%9C%E7%B4%A2.png" alt="" width="200px"> <img src="https://github.com/2064919801/img/blob/4dc94af2f1bd1135dd0292fed90a2c7239b3e08b/%E6%90%9C%E7%B4%A2%E5%88%97%E8%A1%A8.png" alt="" width="200px">
+<img src="https://github.com/XiaoCaiHu/img/blob/57071625da8f677623665dcdfe1846753ad1179b/%E6%90%9C%E7%B4%A0%E9%A1%B51.png" alt="" width="200px"> <img src="https://github.com/XiaoCaiHu/img/blob/57071625da8f677623665dcdfe1846753ad1179b/%E6%90%9C%E7%B4%A2%E9%A1%B52.png" alt="" width="200px">
 
 ### 歌单详情
 
-<img src="https://github.com/2064919801/img/blob/4dc94af2f1bd1135dd0292fed90a2c7239b3e08b/%E6%AD%8C%E5%8D%952.png" alt="" width="200px"> <img src="https://github.com/2064919801/img/blob/097c31462367f83e0ecde29f0b2d1419b92d16c3/%E6%AD%8C%E5%8D%95.png" alt="" width="200px">
+<img src="https://github.com/XiaoCaiHu/img/blob/57071625da8f677623665dcdfe1846753ad1179b/%E6%AD%8C%E6%89%8B%E8%AF%A6%E6%83%85.png" alt="" width="200px">
 
 ### 播放器 / 歌词显示
 
-<img src="https://github.com/2064919801/img/blob/097c31462367f83e0ecde29f0b2d1419b92d16c3/%E6%92%AD%E6%94%BE%E5%99%A8.png" alt=""  width="200px">                              <img src="https://github.com/2064919801/img/blob/097c31462367f83e0ecde29f0b2d1419b92d16c3/%E6%92%AD%E6%94%BE%E5%99%A8%E6%AD%8C%E8%AF%8D.png" alt="" width="200px">
+<img src="https://github.com/XiaoCaiHu/img/blob/57071625da8f677623665dcdfe1846753ad1179b/%E6%92%AD%E6%94%BE%E9%A1%B5%E9%9D%A2.png" alt=""  width="200px">                              <img src="https://github.com/XiaoCaiHu/img/blob/57071625da8f677623665dcdfe1846753ad1179b/%E6%92%AD%E6%94%BE%E6%AD%8C%E8%AF%8D.png" alt="" width="200px">
 
 
 ### 播放歌曲列表/关注列表
 
-<img src="https://github.com/2064919801/img/blob/4dc94af2f1bd1135dd0292fed90a2c7239b3e08b/%E6%92%AD%E6%94%BE%E6%AD%8C%E6%9B%B2%E5%88%97%E8%A1%A8.png" alt="" width="200px"> <img src="https://github.com/2064919801/img/blob/4dc94af2f1bd1135dd0292fed90a2c7239b3e08b/%E6%88%91%E5%96%9C%E6%AC%A2%E5%88%97%E8%A1%A8.png" alt="" width="200px">
+<img src="https://github.com/XiaoCaiHu/img/blob/57071625da8f677623665dcdfe1846753ad1179b/%E6%B7%BB%E5%8A%A0%E5%96%9C%E7%88%B1.png" alt="" width="200px"> <img src="https://github.com/XiaoCaiHu/img/blob/57071625da8f677623665dcdfe1846753ad1179b/%E6%B7%BB%E5%8A%A0%E5%96%9C%E7%88%B12.png" alt="" width="200px">
 
-### 播放歌曲列表/关注列表
-
-<img src="https://github.com/2064919801/img/blob/4dc94af2f1bd1135dd0292fed90a2c7239b3e08b/%E6%B7%BB%E5%8A%A0%E6%AD%8C%E6%9B%B2-%E6%9C%80%E8%BF%91.png" alt="" width="200px"> <img src="https://github.com/2064919801/img/blob/4dc94af2f1bd1135dd0292fed90a2c7239b3e08b/%E6%B7%BB%E5%8A%A0%E6%AD%8C%E6%9B%B2-%E5%8E%86%E5%8F%B2.png" alt="" width="200px">
 
 
 
