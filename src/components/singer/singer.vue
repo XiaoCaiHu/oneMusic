@@ -135,7 +135,8 @@ export default {
        top: 50%   
   .singera-list
     position absolute
-    top 150px
+    top 50%
+    transform translateY(-50%)
     right -21px
     .singera-item
       font-size $font-size-medium-x
